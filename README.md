@@ -1,6 +1,6 @@
 # YouTube-Video-Summarizer
-<br>
 It is a Web Application programmed using Python.
-/YTSummarizer
-../app.py
+<br>
+/YTSummarizer<br>
+../app.py<br>
 ../templates/index.html
